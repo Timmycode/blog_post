@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "Zxcvbnm30$",
-    "database": "react",
-    "host": "localhost",
+    "username": "a25f98_tboy",
+    "password": "Password@1",
+    "database": "db_a25f98_tboy",
+    "host": "mysql5049.site4now.net",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "a25f98_tboy",
+    "password": "Password@1",
+    "database": "db_a25f98_tboy",
+    "host": "mysql5049.site4now.net",
     "dialect": "mysql"
   }
 }
